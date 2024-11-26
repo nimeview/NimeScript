@@ -10,7 +10,7 @@ fn main() {
     let args: Vec<String> = env::args().collect();
 
     if args.len() < 2 {
-        eprintln!("Usage: nime_scripts <file.ns>");
+        eprintln!("Usage: nim <file.ns>");
         return;
     }
 
