@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo cp nim/target/release/nim /usr/local/bin/
+sudo cp nim/release/nim /usr/local/bin/
 
 echo "NimeScript установлен и доступен в командной строке."
